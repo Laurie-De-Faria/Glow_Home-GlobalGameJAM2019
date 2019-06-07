@@ -21,9 +21,9 @@ Alexis Poulet - https://www.artstation.com/jaizu
 Developpers:
 Laurie De Faria - laurie.de-faria@epitech.eu
 
-Level Designer :
-Luana Gauvin - luana.gauvin@epitech.eu
-Thomas Jaafar - thomas.jaafar@epitech.eu
-Guilhem Forgeau - guilhem.forgeau@epitech.eu
+Level Designer :</br>
+Luana Gauvin - luana.gauvin@epitech.eu</br>
+Thomas Jaafar - thomas.jaafar@epitech.eu</br>
+Guilhem Forgeau - guilhem.forgeau@epitech.eu</br>
 
 Music : "Royalty Free Music from Bensound"
