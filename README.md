@@ -6,7 +6,12 @@ You're playing a little robot that has a lightbulb head. He ventures in the dark
 
 Platforms: MS Windows
 Tools and Technologies: Unity (any product)
-Installation Instructions: Clone or download repository and open the executable "Glow Home".
+Installation Instructions: Clone or download repository, extract file "Glow_Home-GGJAM_2019.rar" and open the executable "Glow_home".
+
+Command :
+Jump -> Z
+Left -> Q
+Right -> D
 
 Credits :
  
