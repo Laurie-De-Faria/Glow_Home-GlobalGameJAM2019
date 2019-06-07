@@ -8,10 +8,10 @@ Platforms: MS Windows</br>
 Tools and Technologies: Unity (any product)</br>
 Installation Instructions: Clone or download repository, extract file "Glow_Home-GGJAM_2019.rar" and open the executable "Glow_home".</br>
 
-Command :
-Jump -> Z
-Left -> Q
-Right -> D
+Command :</br>
+Jump -> Z</br>
+Left -> Q</br>
+Right -> D</br>
 
 Credits :
  
